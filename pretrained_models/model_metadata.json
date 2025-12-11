@@ -1,0 +1,28 @@
+{
+  "training_date": "2025-12-11 05:53:03",
+  "dataset": "Cresci-2017 (Synthetic)",
+  "features_count": 24,
+  "performance": {
+    "SVM": {
+      "Accuracy": 0.99,
+      "Precision": 0.9916,
+      "Recall": 0.9883,
+      "F1 Score": 0.99,
+      "ROC-AUC": 0.9995
+    },
+    "Random Forest": {
+      "Accuracy": 0.9942,
+      "Precision": 0.9933,
+      "Recall": 0.995,
+      "F1 Score": 0.9942,
+      "ROC-AUC": 0.9997
+    },
+    "Gradient Boosting": {
+      "Accuracy": 0.9983,
+      "Precision": 0.9983,
+      "Recall": 0.9983,
+      "F1 Score": 0.9983,
+      "ROC-AUC": 1.0
+    }
+  }
+}
